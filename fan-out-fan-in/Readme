@@ -1,0 +1,6 @@
+Fan-Out and Fan-In Pattern
+
+Fan-out and fan-in patterns involve distributing work across 
+multiple goroutines (fan-out) and then aggregating the results (fan-in).
+These patterns are used to improve concurrency and efficiency 
+by parallelizing work.
